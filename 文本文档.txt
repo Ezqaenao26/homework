@@ -1,0 +1,1 @@
+当barrier的值是4的时候，在最后的状态并不是进程结束，而是application is running,当barrier的值是5的时候才会有process finished。
